@@ -92,11 +92,6 @@ body {
 	color: #fff;
   }
 
-.header-area{
-
-	background-color:#f6f6f6 ;
-
-}
 
 .img {
 
@@ -602,7 +597,7 @@ label {
 
 .navbar-brand h3 {
 
-	color: #fff;
+	/* color: #fff; */
 
 	font-size: 25px;
 
@@ -634,7 +629,7 @@ label {
 
 	font-weight: 600;
 
-	color: #fff;
+	/* color: #fff; */
 
 	padding: 30px 0;
 
@@ -658,7 +653,7 @@ label {
 
 	top: 37px;
 
-	background: #fff;
+	/* background: #fff; */
 
 	transition: 0.3s;
 
